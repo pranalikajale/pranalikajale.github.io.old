@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Pranali Kajale
-title: Senior Network System Administrator
+title: ADAS Algorithm Engineering Intern @Magna
 email: kajalepranali@gmail.com
 website: pranalikajale.github.io
 
@@ -48,9 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/IMG_5242.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am currently pursuing a Master of Engineering in automotive engineering at the University of Michigan, with a strong passion for vehicle dynamics, control systems, and algorithm development. I am actively transitioning into the automotive industry and eagerly anticipating the opportunity to apply my knowledge in a professional world.
+  My academic journey has equipped me with expertise in various critical areas, including dynamic system modeling, PID controller design, system identification, and advanced control techniques such as LQR and MPC. To further prepare myself for the challenges of the automotive industry and enhance my problem-solving skills, I have been gaining valuable experience as an ADAS Algorithm Intern at Magna Electronics.
+  In this role, I have been responsible for developing software interfaces and architectures for the design of various ADAS features, including Traffic Sign and Light Recognition (TSR and TLR), Intelligent Speed Assist (ISA), and Auto High Beam Assist (AHBA). My tasks also involve in-depth defect analysis, algorithm testing, and fine-tuning across a range of environments, including MiL, SiL, HiL, and Vehicle System environments.
+  I am enthusiastic about continuing my journey in automotive engineering, driven by the desire to leverage my skills and knowledge to contribute to the development of safer and more efficient vehicles.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Technical Skills</mark> Vehicle Dynamics, Control Systems, Embedded Systems, CAN, MultiBody Dynamics
+  <mark>Programming Languages</mark> C, C++, Python, Embedded C, Arduino IDE
+  <mark>Software</mark> MATLAB, Simulink, IPG CarMaker, CANoe, Trace32, dSpace
 
 content:
   - title: Projects # Title for the section
